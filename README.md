@@ -1,3 +1,3 @@
 # regex-patterns
-expample for basic regex
+example for basic regex
 Read program.cs
